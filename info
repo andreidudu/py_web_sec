@@ -1,0 +1,30 @@
+
+
+Welcome to our data center! Here you can find out more about the most common Web services vulnerabilities.
+	
+*******************************************************************************************************************
+
+1. SQL Injection
+
+Structured Query Language, better known as SQL is a programming language understood by most database management system. It provides a common way for applications to access data in the database. It uses a common set of commands that can be understood by the database.
+
+Convincing databases to display information that they should not is how the attackers exploit databases. It is sometimes as simple as asking the database management system for privileged information or taking advantage of poor configurations.
+
+Usually, malicious code is sent through forms or other user input parts of the page. An example would be entering random characters as long statements and, if the input field is set to up to 15 characters, and error message appears revealing details about the database configuration.
+
+
+*******************************************************************************************************************
+
+2. Phishing
+
+Phishing is the process of tricking an user into believing that a cloned website is the real one, thus introducing sensitive information such as usernames and passwords which is sent to the creator of the cloned website. 
+Social Engineering is an art. It is the art of manipulating people into performing actions that divulge certain information.
+
+HTTrack is a tool built into Kali with the purpose of copying a website, allowing a Penetration Tester to look at the content of a website in a controlled environment. We will use HTTrack to develop fake phishing websites used for social engineering attacks.
+*******************************************************************************************************************
+
+3. Brute-Force Attacks
+
+It happens when all the possible keys are checked until the right one is found. It is extremely costly in the resource and time department as the attacker takes advantage of the length and simplicity of the key of encryption. The Brute-Force Attacks are the reason every user should use a secure password, including uppercase, lowercase, special characters and numbers.
+
+*******************************************************************************************************************
